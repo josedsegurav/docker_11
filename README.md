@@ -12,7 +12,7 @@ First clone this repo.
 
 To start the dev environment type this command inside the working directory:
 
-`docker run -p 7775:3000 segura_jose_site`
+`docker run -p 7775:3000 segura_jose_coding_assignment11`
 
 This line maps the port 7775 from your host (localhost)to port 3000 inside the container.
 This is true since we know that Next.js run dev command runs on port 3000.
