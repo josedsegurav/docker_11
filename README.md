@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 This project is contained in an image with Docker.
 
+## Prerequisites
+
+Docker must be installed on your local machine. You can download it [here](https://www.docker.com/get-started).
+
 ## Getting Started
 
 First clone this repo.
